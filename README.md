@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Faiz 👋
+# Hi there, I'm Md Faiz 👋
 
 ### Aspiring Java Full Stack Developer | BCA '27 @ CMS Kanpur
 
@@ -32,7 +32,7 @@ I am a final-year Computer Applications student passionate about building high-p
 ### 📌 Current Focus & Learning Roadmap
 
 - [x] Object-Oriented Programming, Multithreading & Collections in Java
-- [ ] Database Design & Relational Mapping (JDBC, Spring Data JPA)
+- [x] Database Design & Relational Mapping (JDBC, Spring Data JPA)
 - [ ] Enterprise Architecture with Spring Boot & Microservices
 - [ ] Event-Driven Architecture with Apache Kafka & Dockerization
 - [ ] Interactive UI with React.js & State Management
