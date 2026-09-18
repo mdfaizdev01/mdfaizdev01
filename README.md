@@ -67,7 +67,6 @@
 
 ---
 
-### 📈 Contribution & Coding Metrics
 
 ### 📈 Contribution & Coding Metrics
 
