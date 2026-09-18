@@ -39,11 +39,11 @@ I am a final-year Computer Applications student passionate about building high-p
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfaizdev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faiz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizdev01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://stats.justin0307.workers.dev/api?username=mdfaizdev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad Faiz GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizdev01&theme=tokyonight&hide_border=true" alt="Mohammad Faiz Streak" />
 </div>
 
 ---
